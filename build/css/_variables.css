@@ -1,0 +1,64 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 29 Dec 2022 05:15:26 GMT
+ */
+
+:root {
+  --sd-global-brand-lightest: #bfe2f3;
+  --sd-global-brand-lighter: #80c5e8;
+  --sd-global-brand-light: #1fa6e8;
+  --sd-global-brand-default: #008cd1;
+  --sd-global-brand-dark: #0073d1;
+  --sd-global-brand-darker: #214874;
+  --sd-global-brand-darkest: #1f2a44;
+  --sd-global-primary-lightest: #feeac9;
+  --sd-global-primary-lighter: #fdd492;
+  --sd-global-primary-light: #fbba3b;
+  --sd-global-primary-deafult: #fbaa26;
+  --sd-global-primary-dark: #f19500;
+  --sd-global-primary-darker: #e98200;
+  --sd-global-tertiary-lightest: #fcdec9;
+  --sd-global-tertiary-lighter: #f9bd94;
+  --sd-global-tertiary-light: #f79c5e;
+  --sd-global-tertiary-deafult: #f47b29;
+  --sd-global-tertiary-dark: #d76a20;
+  --sd-global-tertiary-darker: #b55420;
+  --sd-global-success-lightest: #c2e3d7;
+  --sd-global-success-lighter: #84c7ae;
+  --sd-global-success-light: #47ab86;
+  --sd-global-success-deafult: #0a8f5e;
+  --sd-global-success-dark: #0e7750;
+  --sd-global-success-darker: #0f5a3e;
+  --sd-global-warning-lightest: #feeece;
+  --sd-global-warning-lighter: #fddc9d;
+  --sd-global-warning-light: #fccb6c;
+  --sd-global-warning-default: #fbba3b;
+  --sd-global-warning-dark: #f49d30;
+  --sd-global-warning-darker: #db8418;
+  --sd-global-critical-lightest: #eec9ce;
+  --sd-global-critical-lighter: #dc949c;
+  --sd-global-critical-lgiht: #cb5e6b;
+  --sd-global-critical-default: #ba293a;
+  --sd-global-critical-dark: #9e1e2d;
+  --sd-global-critical-darker: #81121f;
+  --sd-global-information-lightest: #c5dbf0;
+  --sd-global-information-light: #5294d1;
+  --sd-global-information-lighter: #8cb8e0;
+  --sd-global-information-default: #1971c2;
+  --sd-global-interactive-lightest: #bfdcf3;
+  --sd-global-interactive-lighter: #80b9e8;
+  --sd-global-interactive-light: #4096dc;
+  --sd-global-interactive-default: #0073d1;
+  --sd-global-interactive-dark: #008cd1;
+  --sd-global-interactive-darker: #214074;
+  --sd-global-interactive-darkest: #1f2544;
+  --sd-global-neutrals-white: #ffffff;
+  --sd-global-neutrals-lightest: #fafafa;
+  --sd-global-neutrals-lighter: #eff0f3;
+  --sd-global-neutrals-light: #dee0e8;
+  --sd-global-neutrals-default: #aaafc4;
+  --sd-global-neutrals-dark: #565b74;
+  --sd-global-neutrals-darker: #3d404e;
+  --sd-global-neutrals-darkest: #16161d;
+  --sd-global-neutrals-black: #000000;
+}
